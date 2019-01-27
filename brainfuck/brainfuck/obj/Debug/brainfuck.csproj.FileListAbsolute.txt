@@ -1,7 +1,0 @@
-D:\project\brainfuck\brainfuck\bin\Debug\brainfuck.exe.config
-D:\project\brainfuck\brainfuck\bin\Debug\brainfuck.exe
-D:\project\brainfuck\brainfuck\bin\Debug\brainfuck.pdb
-D:\project\brainfuck\brainfuck\obj\Debug\brainfuck.csproj.CoreCompileInputs.cache
-D:\project\brainfuck\brainfuck\obj\Debug\brainfuck.exe
-D:\project\brainfuck\brainfuck\obj\Debug\brainfuck.pdb
-D:\project\brainfuck\brainfuck\obj\Debug\brainfuck.csprojResolveAssemblyReference.cache
